@@ -12,6 +12,7 @@ Clojure Finland home and agenda.
 ### Agenda
 ## Monday April 29 17.30 @ Wunderdog, Mikonkatu 13, Helsinki
 
+17.00 Doors open (drink and food)
 17.30 Welcome
 17.31 "Clojure in Analytics pipeline at DNA" by Kimmo Koskinen & Ville Niiranen
 18.15 Second talk
