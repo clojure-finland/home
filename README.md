@@ -17,4 +17,4 @@ Clojure Finland home and agenda.
 18.15 Second talk
 19.00 Third talk
 19.30 Sauna for whoever thinks they're a lady
-20.30 Sauna for whoever thinks they're a man
+20.30 Sauna for whoever thinks they're a gentleman
