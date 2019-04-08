@@ -1,5 +1,7 @@
 # home
-Clojure Finland home and agenda
+Clojure Finland home and agenda. 
+
+[Issues](https://github.com/clojure-finland/home/issues) can be used for discussion, e.g. for requesting/proposing talk ideas. Feel free to [edit](https://github.com/clojure-finland/home/edit/master/README.md) this readme to propose other changes via a pull request.
 
 # Meetups
 - Monday April 29 17.30 @ Wunderdog, Mikonkatu 13, Helsinki
