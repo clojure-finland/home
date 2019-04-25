@@ -5,16 +5,16 @@ Clojure Finland home and agenda.
 
 # Meetups
 
-- Monday April 29 17.30 @ Wunderdog, Mikonkatu 13, Helsinki
+- [Monday April 29 17.30 @ Wunderdog, Mikonkatu 13, Helsinki](#april-@-wunderdog)
 - Thursday May 23 17.30 @ Tomorrow Tech, Aleksanterinkatu 46 C, Helsinki
 
 
+## April @ Wunderdog
 ### Agenda
-## Monday April 29 17.30 @ Wunderdog, Mikonkatu 13, Helsinki
 
 17.00 Doors open (drink and food)
-17.30 Welcome
-17.40 "Clojure in Analytics pipeline at DNA" by Kimmo Koskinen & Ville Niiranen
+17.30 Welcome by Tsuikkis
+17.35 "Clojure in Analytics pipeline at DNA" by Kimmo Koskinen & Ville Niiranen
 18.15 "Decentralized evolutionary computation with Clojure and ClojureScript" by [Rakhim Davletkaliyev](https://rakhim.org/)
 19.00 Third talk
 19.30 Sauna for whoever thinks they're a lady
