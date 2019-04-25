@@ -11,8 +11,8 @@ Clojure Finland home and agenda.
 ## April @ Wunderdog
 * 17.00 Doors (drink and food)
 * 17.30 Welcome by Tsuikkis
-* 17.35 **Clojure in Analytics pipeline at DNA** by Kimmo Koskinen & Ville Niiranen
-* 18.15 *Decentralized evolutionary computation with Clojure and ClojureScript* by [Rakhim Davletkaliyev](https://rakhim.org/)
+* 17.35 **Clojure in Analytics pipeline at DNA** by *Kimmo Koskinen* & *Ville Niiranen*
+* 18.15 **Decentralized evolutionary computation with Clojure and ClojureScript** by *[Rakhim Davletkaliyev](https://rakhim.org/)*
 * 19.00 Third talk
 * 19.30 Sauna batch one
 * 20.30 Sauna batch two
