@@ -2,6 +2,8 @@
 
 [Issues](https://github.com/clojure-finland/home/issues) can be used for discussion, e.g. for requesting/proposing talk ideas. Feel free to [edit](https://github.com/clojure-finland/home/edit/master/README.md) this readme to propose other changes via a pull request.
 
+Submit issues and PR's without fear or mercy.
+
 # Meetups
 - [Monday April 29 17.30 @ Wunderdog C-space, Mikonkatu 13, Helsinki](#april-@-wunderdog)
 - Thursday May 23 17.30 @ Tomorrow Tech, Aleksanterinkatu 46 C, Helsinki
