@@ -12,6 +12,7 @@
 * 17.30 Welcome by Tsuikkis
 * 17.35 **Clojure in Analytics pipeline at DNA** by *Kimmo Koskinen* & *Juha Niiranen*
 * 18.15 **Decentralized evolutionary computation with Clojure and ClojureScript** by *[Rakhim Davletkaliyev](https://rakhim.org/)*
-* 19.00 Third talk
-* 19.30 Sauna batch one
-* 20.30 Sauna batch two
+* 19.00 Test Driven Relevance
+* 19.30 Closing words
+* 19.45 Sauna batch one
+* 20.45 Sauna batch two
