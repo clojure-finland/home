@@ -10,7 +10,7 @@
 ## April @ Wunderdog
 * 17.00 Doors (drink and food)
 * 17.30 Welcome by Tsuikkis
-* 17.35 **Clojure in Analytics pipeline at DNA** by *Kimmo Koskinen* & *Juha Niiranen*
+* 17.35 **Clojure in Analytics pipeline at DNA** by *Kimmo Koskinen* & *Juha Niiranen* [slides](talks/20190429/Clojure_in_Analytics_pipeline_at_DNA.pdf)
 * 18.15 **Decentralized evolutionary computation with Clojure and ClojureScript** by *[Rakhim Davletkaliyev](https://rakhim.org/)*
 * 19.00 **Test Driven Relevance** by *Samuli Ulmanen*
 * 19.30 Closing words
