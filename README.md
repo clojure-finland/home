@@ -12,7 +12,7 @@
 * 18.00 Welcome
 * 18.05 Code quality inspection for Clojure using SonarQube by *Heikki Hämäläinen*
 * 18.25 Things Learned from Clojure Interop - There and Back Again by *Jaakko Suutarla*
-* 19:00 TBA
+* 19:00 Clojure powered services at Finnish Broadcasting Company Yle by *Arttu Kaipiainen*
 * 19.30 Closing words
 * 21.00 SALLAD FEAT. VIRVE ROSTI & LAURI MIKKOLA. Our office is in "Mummotunneli" so you can experience [this](https://www.raflaamo.fi/fi/tarjoukset/tarjous/sallad-feat-virve-rosti-lauri-mikkola/025004888_624946) for free!  
 
